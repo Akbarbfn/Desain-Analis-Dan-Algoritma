@@ -1,0 +1,13 @@
+Algoritma 
+
+1. Sediakan 3 Variabel untuk menampung nilai alas, tinggi, hasilnya
+2. Masukan Nilai Panjang, yaitu 5 pada variabel p
+3. Masukan Nilai Lebar, yaitu 3 pada variabel l
+4. Lakukan Kalkulasi dengan ketentuan (p*l) dan masukan hasil tersebut pada variabel x
+
+Pseudecode
+
+int p = panjang, lebar = l, x = 0;
+p = 5;
+l = 3;
+x = p * l;
